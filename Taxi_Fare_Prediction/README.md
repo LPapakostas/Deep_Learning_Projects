@@ -5,6 +5,9 @@ In order to run, download Kaggle dataset and rename *'train.csv'* into *'NYC_tax
 
 For further information, see **Predicting Taxi Fares with Deep Feedforward Networks.pdf**
 
-'''
+
+The project was implented on virtual enviroment, with the libraries that are presented in *environment.yaml* file. To create the same enviroment use the below command.
+
+`bash
 conda env create -f environment.yml
-'''
+`
