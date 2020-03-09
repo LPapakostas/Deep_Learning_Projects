@@ -8,6 +8,6 @@ For further information, see **Predicting Taxi Fares with Deep Feedforward Netwo
 
 The project was implented on virtual enviroment, with the libraries that are presented in *environment.yml* file. To create the same enviroment use the below command.
 
-`bash
+`
 conda env create -f environment.yml
 `
