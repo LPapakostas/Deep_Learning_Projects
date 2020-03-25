@@ -1,0 +1,12 @@
+name: machine_learning
+dependencies:
+  - tensorflow-gpu
+  - matplotlib
+  - pandas
+  - keras
+  - seaborn
+  - scikit-learn
+  - piexif
+  - h5py
+
+
